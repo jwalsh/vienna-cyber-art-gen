@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "vienna-cyber-art-gen"
+version = "0.1.0"
+description = ""
+authors = ["Jason Walsh <j@wal.sh>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.scripts]
+vienna-cyber-art-gen = "vienna_cyber_art_gen.cli:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
