@@ -1,3 +1,6 @@
+deps:
+	brew install python 
+
 install:
 	poetry install
 
