@@ -2,7 +2,7 @@ install:
 	poetry install
 
 run:
-	poetry run vienna-cyber-art-gen --api-key ${OPENAI_API_KEY} --output-dir generated_images
+	poetry run vienna-cyber-art-gen --api-key ${OPENAI_API_KEY} 
 
 test:
 	poetry run pytest
