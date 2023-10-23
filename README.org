@@ -4,44 +4,55 @@
 
    In "The Age of Insight," Eric Kandel delves into the exploration of the unconscious mind through art and science. Cyberpunk fiction often features characters with cybernetic enhancements, leading to questions about the boundaries of consciousness and identity.
 
-   *** Image Prompt:
-   #+ATTR_ORG: :width 300
-   [[file:images/exploration_of_mind.jpg.png]]
+#+CAPTION: Cyberpunk blend visualizing the exploration of consciousness
+#+NAME: fig:exploration-generated 
+#+ATTR_ORG: :width 300
+[[./images/exploration_of_mind.png]]
 
 ** Theme 2: Interplay of Art and Science
 
    Kandel's work highlights the intersection of art and science in understanding the human mind during the Vienna 1900 period. Cyberpunk often portrays a world where advanced technology and artistry are intertwined, shaping society.
 
-   #+ATTR_ORG: :width 300
-   [[file:images/interplay_of_art_and_science.png]]
+#+CAPTION: Cyberpunk and Vienna 1900 blend representing the interplay of art and science
+#+NAME: fig:interplay-generated
+#+ATTR_ORG: :width 300
+[[./images/interplay_of_art_and_science.png]]
 
 ** Theme 3: Identity and Self
 
    Both "The Age of Insight" and cyberpunk tackle questions of identity and self. Kandel explores how art and science influence our self-awareness, while cyberpunk characters often grapple with identity due to technological enhancements or virtual reality.
 
-   #+ATTR_ORG: :width 300
-   [[file:images/identity_and_self.png]]
+#+CAPTION: Cyberpunk visual of identity and self
+#+NAME: fig:identity-generated
+#+ATTR_ORG: :width 300  
+[[./images/identity_and_self.png]]
 
 ** Theme 4: Societal Change
 
    "The Age of Insight" discusses the transformations in Vienna's culture and society at the turn of the 20th century. Cyberpunk often portrays a future where rapid technological advancement alters the social and cultural landscape.
 
-   #+ATTR_ORG: :width 300
-   [[file:images/societal_change.png]]
+#+CAPTION: Cyberpunk and Vienna 1900 blend showing societal transformation  
+#+NAME: fig:societal-generated
+#+ATTR_ORG: :width 300
+[[./images/societal_change.png]]
 
 ** Theme 5: Dystopian Elements
 
    Cyberpunk fiction frequently incorporates dystopian elements, reflecting a dark and oppressive future. While "The Age of Insight" doesn't focus on dystopia, it touches on the turbulent times of the early 20th century.
 
-   #+ATTR_ORG: :width 300
-   [[file:images/dystopian_elements.png]]
+#+CAPTION: Cyberpunk dystopian image blended with Vienna 1900  
+#+NAME: fig:dystopian-generated 
+#+ATTR_ORG: :width 300
+[[./images/dystopian_elements.png]]
 
 ** Theme 6: Ethical and Moral Questions
 
    Both "The Age of Insight" and cyberpunk fiction raise ethical and moral questions. Kandel explores the ethical considerations of exploring the unconscious mind, while cyberpunk addresses the consequences of unchecked technological advancement.
 
-   #+ATTR_ORG: :width 300
-   [[file:images/ethical_and_moral_questions.png]]
+#+CAPTION: Cyberpunk and Vienna 1900 blend focused on moral questions
+#+NAME: fig:ethical-generated
+#+ATTR_ORG: :width 300
+[[./images/ethical_and_moral_questions.png]]
 
 * Additional Topic Areas
 
